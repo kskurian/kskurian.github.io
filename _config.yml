@@ -1,1 +1,10 @@
 name : Kurian K S
+title: Computer Enthusiast
+email: ksk.steve@gmail.com
+description:
+twitter_username: kskurian
+github_username:  kskurian
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
